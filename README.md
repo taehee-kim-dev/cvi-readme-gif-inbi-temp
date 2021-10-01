@@ -1,34 +1,34 @@
 ## 서비스 기능
 ### 간단 요약
-![간단 요약 min](https://user-images.githubusercontent.com/53412998/135497971-43be6542-404b-4eb8-a5f3-e4fe7bac37d7.gif)
+![간단 요약](https://user-images.githubusercontent.com/53412998/135582980-53157888-c54d-4313-bff5-e06ccd01274f.gif)
 
 <details>
 <summary>소셜 로그인</summary>
-  <img src="https://user-images.githubusercontent.com/53412998/135498092-263bafde-5961-4679-8c1a-4131f5b2cdae.gif"/>
+  <img src="https://user-images.githubusercontent.com/53412998/135583011-4fd322c9-623a-4329-ae95-7ec4fa23fe37.gif"/>
 </details>
 
 
 <details>
 <summary>글 작성</summary>
-  <img src="https://user-images.githubusercontent.com/53412998/135498126-554b37dc-63bc-486b-9140-2771c0661652.gif"/>
+  <img src="https://user-images.githubusercontent.com/53412998/135581550-d38306bc-7ff3-4771-85e1-23cb20c79550.gif"/>
 </details>
 
 <details>
 <summary>좋아요 누르기, 댓글 작성</summary>
-  <img src="https://user-images.githubusercontent.com/53412998/135498141-fedce74c-96f4-4a46-8df8-aeaeb7657210.gif"/>
+  <img src="https://user-images.githubusercontent.com/53412998/135583033-adf9ee08-0846-4b0e-bf21-c3d22b0615b7.gif"/>
 </details>
 
 <details>
 <summary>게시글 필터링, 정렬</summary>
-  <img src="https://user-images.githubusercontent.com/53412998/135498148-b4447bf6-46b9-4db0-97dd-dfb3c702372f.gif"/>
+  <img src="https://user-images.githubusercontent.com/53412998/135583001-e819f4d0-9c35-4f37-a53e-1996522450d4.gif"/>
 </details>
 
 <details>
 <summary>마이페이지</summary>
-  <img src="https://user-images.githubusercontent.com/53412998/135498159-03ea6f02-2889-415f-9cce-e9d81927daad.gif"/>
+  <img src="https://user-images.githubusercontent.com/53412998/135583010-b5a8757d-2eb5-4a19-b6e2-c0b507a69e13.gif"/>
 </details>
 
 <details>
 <summary>접종 현황 통계</summary>
-  <img src="https://user-images.githubusercontent.com/53412998/135498165-7f426c19-7750-4eb3-8a95-9bbda56a439c.gif"/>
+  <img src="https://user-images.githubusercontent.com/53412998/135583019-990a80aa-e9e3-4046-85e4-ea930fc1febb.gif"/>
 </details>
